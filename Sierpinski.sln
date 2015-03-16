@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sierpinski", "Sierpinski.csproj", "{C048824E-95B3-4B18-A9D4-C92437C73B13}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sierpinski Install", "..\Sierpinski Install\Sierpinski Install.vdproj", "{51213E38-3183-4999-B4A1-8EEDCC8D1C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C048824E-95B3-4B18-A9D4-C92437C73B13}.Debug.ActiveCfg = Release|.NET
+		{C048824E-95B3-4B18-A9D4-C92437C73B13}.Debug.Build.0 = Release|.NET
+		{C048824E-95B3-4B18-A9D4-C92437C73B13}.Release.ActiveCfg = Release|.NET
+		{C048824E-95B3-4B18-A9D4-C92437C73B13}.Release.Build.0 = Release|.NET
+		{51213E38-3183-4999-B4A1-8EEDCC8D1C4A}.Debug.ActiveCfg = Debug
+		{51213E38-3183-4999-B4A1-8EEDCC8D1C4A}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
